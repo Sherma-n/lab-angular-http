@@ -22,6 +22,10 @@ Use $http to:
 
 Split your iterm into two panel.
 `cd api`
+`npm install`
+`node app.js`
+
+on 
 
 There's an Express-built API ready to run with a simple `npm start`. Don't forget to have Mongo running. There's no seed data - you'll have to save your own criminals.
 
