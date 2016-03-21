@@ -20,6 +20,9 @@ Use $http to:
 
 #### Starter Code
 
+Split your iterm into two panel.
+`cd api`
+
 There's an Express-built API ready to run with a simple `npm start`. Don't forget to have Mongo running. There's no seed data - you'll have to save your own criminals.
 
 #### Deliverable
