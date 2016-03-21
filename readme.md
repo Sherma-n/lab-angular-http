@@ -21,13 +21,20 @@ Use $http to:
 #### Starter Code
 
 Split your iterm into two panel.
-`cd api`
-`npm install`
-`node app.js`
+On 1 panel
 
-on 
+- `cd api`
+- `npm install`
+- `node app.js`
+- Don't forget to have Mongo running.
 
-There's an Express-built API ready to run with a simple `npm start`. Don't forget to have Mongo running. There's no seed data - you'll have to save your own criminals.
+On the other panel
+
+- `cd frontend`
+- `bower init`
+- Install the appropriate packages
+
+There's no seed data - you'll have to save your own criminals.
 
 #### Deliverable
 
