@@ -33,6 +33,7 @@ On the other panel
 - `cd frontend`
 - `bower init`
 - Install the appropriate packages
+- Link appropriate files to html
 
 There's no seed data - you'll have to save your own criminals.
 
